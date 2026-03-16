@@ -201,6 +201,10 @@ body{
   line-height: 1.6;
 }
 
+.alt-cta{
+  margin-bottom: 24px;
+}
+
 /* Footer */
 .footer{
   margin-top: 8px;
