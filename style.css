@@ -250,20 +250,4 @@ body{
     min-height: 1600px;
   }
 
-  .inline-alt-link{
-    margin-top: 14px;
-    font-size: 14px;
-    color: rgba(17,24,39,0.52);
-  }
-  
-  .inline-alt-link a{
-    margin-left: 6px;
-    color: rgba(17,24,39,0.78);
-    font-weight: 600;
-    text-decoration: none;
-  }
-  
-  .inline-alt-link a:hover{
-    text-decoration: underline;
-  }
 }
